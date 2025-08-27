@@ -34,6 +34,8 @@ and then use the XML to position them at design or runtime
 Original script created by Arlo Rose of Konfabulator, then Yahoo Widgets.
 Modified by Harry Whitfield and myself.
 
+The following is an excerpt from an article I wrote years ago on Deviantart.
+
 # Basic Tutorial - How to create a Yahoo Widget by yereverluvinuncleber on DeviantArt
 
 I'd be happy to show you the basics, it is really quite straightforward - if not simple. I create all my widgets first as Yahoo /Konfabulator widgets as the process is the easiest of all the engines. Then I convert to other widget engines as I wish, taking the code and porting it.
