@@ -3,6 +3,7 @@
 Converts a PSD file to a series of XML descriptors within a KON file (XML)
 
 A javascript program to be used with Photoshop
+
 Place the script in the presets scripts folder under Photoshop, eg.
 
 C:\Program Files (x86)\Adobe\Photoshop CS\Presets\Scripts
@@ -12,6 +13,7 @@ Load your PSD into Photoshop. Run the script.
 File - scripts - create Widget 2.0
 
 Choose an output folder.
+
 The program will create a container folder with an images folder within.
 
 The PSD layers will be exported to separate images of the same name.
